@@ -38,10 +38,10 @@ const productsData = [
 
 
     // Mangueras products
-    { name: "Manguera flexible 1", price: "S/ 50.00", img: "images/1 (6).png", category: "mangueras" },
-    { name: "Manguera industrial 2", price: "S/ 120.00", img: "images/1 (7).png", category: "mangueras" },
+    // { name: "Manguera flexible 1", price: "S/ 50.00", img: "images/1 (6).png", category: "mangueras" },
+    // { name: "Manguera industrial 2", price: "S/ 120.00", img: "images/1 (7).png", category: "mangueras" },
     // Otros products
-    { name: "Otro 1", price: "S/ 100.00", img: "images/1 (8).png", category: "otros" }
+    // { name: "Otro 1", price: "S/ 100.00", img: "images/1 (8).png", category: "otros" }
 ];
 
 const galleryContainer = document.getElementById('product-gallery');
